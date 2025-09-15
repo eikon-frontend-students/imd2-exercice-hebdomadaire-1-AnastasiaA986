@@ -18,17 +18,18 @@ body {
   display: flex;
   flex-direction: column;
 }
-h1 {
+h1,
+h2 {
   margin: 0;
+  font-weight: 400;
+}
+h1 {
   padding: 20px 0;
   font-size: 27px;
-  font-weight: 400;
   line-height: 35px;
 }
 h2 {
-  margin: 0;
   font-size: 20px;
-  font-weight: 400;
   line-height: 24px;
 }
 p {
