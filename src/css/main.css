@@ -1,6 +1,6 @@
 body {
   background-color: aliceblue;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
 }
 .card {
   border-radius: 25px;
@@ -8,7 +8,6 @@ body {
   box-shadow: 0 4px 10px 10px rgba(0, 0, 0, 0.05);
   padding: 15px;
 }
-
 .author {
   display: flex;
   flex-direction: row;
